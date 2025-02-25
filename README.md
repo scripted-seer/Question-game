@@ -2,6 +2,8 @@
 
 A lightweight terminal-based quiz game built with Python! 🚀  
 
+![hi](https://github.com/user-attachments/assets/f8b2d791-d5fc-4e8e-9c5e-2da2469fb0bf)
+
 ## 📌 Features  
 ✅ Loads questions from a **JSON** file  
 ✅ Displays multiple-choice questions  
