@@ -1,0 +1,102 @@
+[
+    {
+      "question": "In which year was Python created?",
+      "options": ["1989", "1995", "2000", "2008"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which of these is NOT a Python data type?",
+      "options": ["Tuple", "ArrayList", "Set", "FrozenSet"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the output of 'print(3 * '7')' in Python?",
+      "options": ["21", "777", "Error", "37"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which PEP describes the Zen of Python?",
+      "options": ["PEP 8", "PEP 20", "PEP 257", "PEP 202"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which library is used for 3D visualization in Python?",
+      "options": ["Matplotlib", "Seaborn", "Mayavi", "Plotly"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What does GIL stand for in Python?",
+      "options": ["Global Interpreter Lock", "General Input Layer", "Graphical Interface Library", "Generic Inheritance Logic"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which is used to create an anonymous function?",
+      "options": ["def", "lambda", "anon", "function"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What is the result of bool('False') in Python?",
+      "options": ["True", "False", "Error", "None"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which method is called when an object is created?",
+      "options": ["__init__", "__main__", "__new__", "__start__"],
+      "correct_answer": 1
+    },
+    {
+      "question": "How do you comment multiple lines in Python?",
+      "options": ["/* */", "<!-- -->", "#", "Triple quotes"],
+      "correct_answer": 4
+    },
+    {
+      "question": "What is Python's package manager called?",
+      "options": ["pip", "npm", "conda", "pyget"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which is used for virtual environments?",
+      "options": ["venv", "virtualenv", "pipenv", "All of the above"],
+      "correct_answer": 4
+    },
+    {
+      "question": "What does 'mro()' stand for in Python?",
+      "options": ["Method Resolution Order", "Multiple Return Output", "Memory Resource Optimization", "Module Relative Offset"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which is NOT a Python web framework?",
+      "options": ["Django", "Flask", "Pyramid", "Jupyter"],
+      "correct_answer": 4
+    },
+    {
+      "question": "What is the output of 'print(2 ** 3 ** 2)'?",
+      "options": ["64", "512", "12", "18"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which module is used for regular expressions?",
+      "options": ["re", "regex", "pyregex", "string"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the parent class of all exceptions?",
+      "options": ["Exception", "BaseException", "Error", "Throwable"],
+      "correct_answer": 2
+    },
+    {
+      "question": "Which operator is used for floor division?",
+      "options": ["/", "//", "%", "|"],
+      "correct_answer": 2
+    },
+    {
+      "question": "What does 'DRY' stand for in Python?",
+      "options": ["Don't Repeat Yourself", "Data-Rich Yield", "Dynamic Runtime Yield", "Declarative Resource YAML"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Which is used to measure code execution time?",
+      "options": ["timeit", "datetime", "stopwatch", "clock"],
+      "correct_answer": 1
+    }
+  ]
